@@ -1,4 +1,3 @@
-Source : https://shop.karoryfer.com/pages/free-272-merry-orks  
 Each filename contains a phoneme and a spelling. Files are sorted by the type of phoneme.  
 These information were used to create the table.  
 
