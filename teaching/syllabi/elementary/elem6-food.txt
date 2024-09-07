@@ -1,0 +1,36 @@
+## 6. Food and Drink
++ Grammar
+  - Conjunctions
+  - Prefixes
+  - Countable and Uncountable Nouns
+  - Quantifiers
++ Vocabulary
+  - Food and Drink – Vocabulary
+  - Shopping
+  - Money
+  - Prices
++ Speaking and Listening – Functional English
+  - Talking about Food and Drink – Preferences
+  - Asking about Prices and Buying Things
+  - Register – Using Polite Language
++ Pronunciation
+  - Sentence Stress 2 – Further Practice
+  - Glottal Stops
+  - Silent Letters
+  - Hidden Sounds
++ Writing
+  - Write a Recipe for your Favourite Dish
+
+---
+current:
+  level: Elementary
+  file: <./elem6-food.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

@@ -1,0 +1,43 @@
+## 3. Media
++ Grammar
+  - English Phrasal Verbs 2
+  - Future Continuous
+  - Articles (Revision)
+  - Direct and Indirect Questions
++ Vocabulary
+  - Media
+  - English Idioms 3
+  - Advertising
+  - Social Media
++ Speaking and Listening – Functional English
+  - Media – Speaking and Listening Activities
+  - Discussing Different Kinds of Media Content
+  - Talking to a Large Audience
+  - Justifying Preferences
++ Pronunciation
+  - Word Stress and Sentence Stress 3
+  - Connected Speech 3
+  - Hard Words 3
++ Writing
+  - Write an Essay about your Media Consumption and how it Affects you
+
+---
+current:
+  level: Intermediate
+  unit: Media
+  file: <./int3-media.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Problems
+    file: <./int2-problems.txt>
+next:
+  unit: Crime
+    file: <./int4-crime.txt>
+...

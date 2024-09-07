@@ -1,0 +1,73 @@
+## Syllabi
+
+This is a complete integrated syllabus for teaching and learning English. Teachers can use this syllabus to create an entire 9-month-long course at the level of their choice, using the free material provided.
+
+There are two self-contained syllabi:
+- Elementary: CEFR A1 (beginner) to B1 (pre-intermediate)
+- Intermediate: CEFR B2 (intermediate) to C2 (proficiency)
+
+Each syllabus is divided into 9 units, with 16 topics under five categories:
+- Grammar
+- Vocabulary
+- Speaking and Listening – Functional English
+- Pronunciation
+- Writing
+
+Each topic contains links to relevant free teaching material from this website.
+
+We suggest using a syllabus over the course of one school year, covering one unit in each of nine months, with approx. four topics covered per week. Of course, you can set different parameters or simply teach standalone topics, rather than building an entire course.
+
+The Elementary syllabus is organised chronologically, beginning with easier topics, e.g. The English Alphabet, and getting progressively more difficult. For notes on the Intermediate syllabus, please see below.
+
+All the material is free to use and almost all of it is Public Domain. Click here for more details. Most of the material is PDF (opens with Acrobat Reader), with some MP3 files (open with the website player), some PPTX files, a few image files, and some links to videos on YouTube and Facebook.
+
+Some of the material has been added to the website for the first time.
+
+Some of the material is taken from our free books, and is listed with a book code and the relevant page number, e.g. BGB p.24. BGB = Big Grammar Book (see codes below). You will need to download the book and find the right page(s). The books have the following codes and can be downloaded below, or here, or as one ZIP file download here, along with our other free books:
+- BAB: Big Activity Book
+- BGB: Big Grammar Book
+- BGB2: Big Grammar Book 2
+- BGB Int 1: Big Grammar Book Intermediate Book 1
+- BRB: Big Resource Book
+- CAD: Clear Alphabet Dictionary
+- DQs: Discussion Questions for English Classes
+- Pbrill 1: PhotocopiaBRILL! 1
+- Pbrill 2: PhotocopiaBRILL! 2
+- TALE 1: Talk a Lot Elementary Book 1
+- TALE 2: Talk a Lot Elementary Book 2
+- TALE 3: Talk a Lot Elementary Book 3
+- TALE-H: Talk a Lot Elementary Handbook
+- TALFC: Talk a Lot Foundation Course
+- TALI 1: Talk a Lot Intermediate Book 1
+- YATCB LP: You Are The Course Book – Lesson Plans
+- YATCB Syllabus: You Are The Course Book – Syllabus
+This website offers more free books available for download, in addition to the ones listed above. Click here to find out more and download them.
+
+Here are a few further general resources that could be useful:
+- A-Z of English Grammar Words
+- Glossary of Pronunciation Terms
+
+The Elementary syllabus suggests one major writing assignment per month, while the Intermediate syllabus proposes two. Of course you can set more writing tasks – or fewer. It is up to teachers and course managers to organise marked homework and assignments, further study, study skills sessions, and regular tests, e.g. end of unit and end of semester/year tests, either from the material available in the syllabus, or using your own testing procedures and material.
+
+The aim of the Speaking and Listening activities is to practice language functions using techniques and activities from the Speaking and Listening Activities List.
+
+For the writing assignment, there is further help with writing here: Writing Guidance.
+
+When it comes to practicing students' reading skills, we believe that teachers will be able to find many relevant and up-to-date reading resources online or offline, so there are no dedicated reading sections in the syllabi, although there are some reading activities. This also applies to listening texts, although there are a number of audio and video resources included in the syllabus.
+
+Finally, if you like what we do, please share it with your colleagues and friends. Thank you!
+
+You can send us your feedback and questions here, or contact us on Instagram, Facebook, and Twitter.
+
+---
+current:
+  file: <./about.txt>
+  source: <https://purlandtraining.com/syllabi/about/>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

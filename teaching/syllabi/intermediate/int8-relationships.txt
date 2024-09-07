@@ -1,0 +1,43 @@
+## 8. Relationships
++ Grammar
+  - English Phrasal Verbs 5
+  - 5 Tenses and 5 Forms of the Verb (Revision)
+  - Tense Conversion
+  - Transitive and Intransitive Verbs
++ Vocabulary
+  - Relationships
+  - English Idioms 8
+  - Eggcorns, Tautophrases, and Palindromes
+  - Morality and Ethics
++ Speaking and Listening – Functional English
+  - Expressing Feelings
+  - Putting Forward a Divisive Point of View
+  - Paraphrasing
+  - Contradicting
++ Pronunciation
+  - Word Stress and Sentence Stress 8
+  - Connected Speech 8
+  - Hard Words 8
++ Writing
+  - Write a Biography of a Famous Couple
+
+---
+current:
+  level: Intermediate
+  unit: Relationships
+  file: <./int8-relationships.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Diet and Fitness
+    file: <./int7-dietfitness.txt>
+next:
+  unit: Future Challenges
+    file: <./int9-futurechallenges.txt>
+...

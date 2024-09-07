@@ -1,0 +1,43 @@
+## 2. Problems
++ Grammar
+  - Used To
+  - Past Continuous
+  - Mixed Conditionals
+  - Punctuation (Revision)
++ Vocabulary
+  - Problems
+  - English Idioms 2
+  - Politically Correct Language
+  - Discourse Markers
++ Speaking and Listening – Functional English
+  - Problems – Speaking and Listening Activities
+  - Giving a Factual Account of an Event
+  - Expressing Regret
+  - Emphasising your Point
++ Pronunciation
+  - Word Stress and Sentence Stress 2
+  - Connected Speech 2
+  - Hard Words 2
++ Writing
+  - Write Two Versions of an Email Requesting Help – Formal and Informal
+
+---
+current:
+  level: Intermediate
+  unit: Problems
+  file: <./int2-problems.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Hospitality
+    file: <./int1-hospitality.txt>
+next:
+  unit: Media
+    file: <./int3-media.txt>
+...

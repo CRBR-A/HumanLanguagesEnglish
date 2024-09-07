@@ -1,0 +1,40 @@
+## 9. Future Challenges
++ Grammar
+  - Future Forms (Revision)
+  - Causative Verbs
+  - Regular and Irregular Verbs (Revision)
+  - Adverbs of Manner
++ Vocabulary
+  - Future Challenges
+  - English Idioms 9
+  - Politics
+  - Miscellaneous Quizzes
++ Speaking and Listening – Functional English
+  - Politics – Speaking and Listening Activities
+  - Expressing Hopes and Fears about the Future
+  - Predicting Potential Outcomes
+  - Asking for Clarification and Making Corrections
++ Pronunciation
+  - Word Stress and Sentence Stress 9
+  - Connected Speech 9
+  - Hard Words – Review
++ Writing
+  - Write an Essay about how the World will Look 100 Years from Now
+
+---
+current:
+  level: Intermediate
+  unit: Future Challenges
+  file: <./int9-futurechallenges.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Relationships
+    file: <./int8-relationships.txt>
+...

@@ -1,0 +1,43 @@
+## 6. Moving Home
++ Grammar
+  - Prepositions (Revision)
+  - Future Perfect
+  - Modal Perfect
+  - Defining and Non-Defining Relative Clauses
++ Vocabulary
+  - Moving Home
+  - English Idioms 6
+  - Synonyms
+  - American English
++ Speaking and Listening – Functional English
+  - Making an Offer / Negotiating a Price
+  - Celebrating Positive News
+  - Expressing an Obligation in the Past
+  - Admitting a Mistake
++ Pronunciation
+  - Word Stress and Sentence Stress 6
+  - Connected Speech 6
+  - Hard Words 6
++ Writing
+  - Write about a House Move that Went Wrong
+
+---
+current:
+  level: Intermediate
+  unit: Moving Home
+  file: <./int6-movinghome.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Internet
+    file: <./int5-internet.txt>
+next:
+  unit: Diet and Fitness
+    file: <./int7-dietfitness.txt>
+...

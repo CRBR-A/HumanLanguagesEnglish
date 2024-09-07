@@ -1,0 +1,43 @@
+## Notes on the Intermediate Syllabus
+
+### Idioms and Phrasal Verbs
+
+At Intermediate level and above, one of the major challenges for students is learning numerous English idioms and phrasal verbs. There is a topic on idioms in each of the nine Intermediate syllabus units and a topic on phrasal verbs in five units: 1, 3, 5, 7, and 8.
+
+### Revision
+
+There are six topics which ask you to go back to the material in the Elementary syllabus and do revision. These are important grammar topics that should be covered at all levels. Teachers should adjust the level of this material to the level of their students:
+- Unit 2: Problems: Punctuation (Revision)
+- Unit 3: Media: Articles (Revision)
+- Unit 6: Moving Home: Prepositions (Revision)
+- Unit 8: Relationships: 5 Tenses and 5 Forms of the Verb (Revision)
+- Unit 9: Future Challenges: Future Forms (Revision)
+- Unit 9: Future Challenges: Regular and Irregular Verbs (Revision)
+
+### Pronunciation
+
+Teachers should use the pronunciation topics from the Elementary syllabus to teach pronunciation at a level that is appropriate to their students. The unit topics will be different, while the main topics remain the same:
+- Word Stress
+- Sentence Stress
+- Connected Speech – Stress, Reduce, Merge
+There are also many other important pronunciation topics from the Elementary syllabus that teachers could focus on and develop at Intermediate level and above, including
+- The Schwa Sound
+- Glottal Stops
+- Weak Forms
+- Suffixes
+New to the Intermediate syllabus is the opportunity to study the Hard Words pronunciation programme over the course of the syllabus – in eight lessons and one review lesson. This could be easily adapted for Elementary-level students too.
+
+---
+current:
+  level: Intermediate
+  file: <./notes.txt>
+  source: <https://purlandtraining.com/syllabi/about/>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...
+

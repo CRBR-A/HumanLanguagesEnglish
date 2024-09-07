@@ -1,0 +1,36 @@
+## 5. Clothes
++ Grammar
+  - Past Simple
+  - There was / There were
+  - Regular Verbs
+  - Irregular Verbs
++ Vocabulary
+  - Clothes – Vocabulary
+  - Colours
+  - Health
+  - Make or Do
++ Speaking and Listening – Functional English
+  - Giving / Justifying Opinions
+  - Advising
+  - Suggesting
+  - Health – Speaking Practice
++ Pronunciation
+  - Sentence Stress 1: The Sound Spine
+  - Intonation
+  - Minimal Pairs
++ Writing
+  - Write an Informal Email about Clothes
+
+---
+current:
+  level: Elementary
+  file: <./elem5-clothes.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

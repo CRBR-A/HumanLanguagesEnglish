@@ -1,0 +1,44 @@
+## 7. Diet and Fitness
++ Grammar
+  - English Phrasal Verbs 4
+  - Future Perfect Continuous
+  - Ellipsis
+  - The Many Uses of Would
++ Vocabulary
+  - Diet and Fitness
+  - English Idioms 7
+  - Polite, Neutral, or Rude Language
+  - Antonym Pairs (**added**)
+  - Onomatopoeia
++ Speaking and Listening – Functional English
+  - Enjoying Informal Social Interaction
+  - Making Future Arrangements
+  - Asking for Advice
+  - Suggesting Possible Consequences in the Future
++ Pronunciation
+  - Word Stress and Sentence Stress 7
+  - Connected Speech 7
+  - Hard Words 7
++ Writing
+  - Write a Diet and Fitness Journal
+
+---
+current:
+  level: Intermediate
+  unit: Diet and Fitness
+  file: <./int7-dietfitness.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Moving Home
+    file: <./int6-movinghome.txt>
+next:
+  unit: Relationships
+    file: <./int8-relationships.txt>
+...

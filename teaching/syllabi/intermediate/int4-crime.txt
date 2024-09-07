@@ -1,0 +1,43 @@
+## 4. Crime
++ Grammar
+  - Mistakes that English Native Speakers Make
+  - Error Correction
+  - Past Perfect
+  - Passive Voice
++ Vocabulary
+  - Crime
+  - English Idioms 4
+  - Oxymorons
+  - Antonym Pairs
++ Speaking and Listening – Functional English
+  - Crime – Speaking and Listening Activities
+  - Criticising and Reprimanding
+  - Refuting Allegations
+  - Expressing Penitence and Showing Forgiveness
++ Pronunciation
+  - Word Stress and Sentence Stress 4
+  - Connected Speech 4
+  - Hard Words 4
++ Writing
+  - Write an Eyewitness Account of a Crime
+
+---
+current:
+  level: Intermediate
+  unit: Crime
+  file: <./int4-crime.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Media
+    file: <./int3-media.txt>
+next:
+  unit: Internet
+    file: <./int5-internet.txt>
+...

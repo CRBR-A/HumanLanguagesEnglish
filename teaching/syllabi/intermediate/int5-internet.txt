@@ -1,0 +1,43 @@
+## 5. Internet
++ Grammar
+  - English Phrasal Verbs 3
+  - Past Perfect Continuous
+  - Reported Speech
+  - Compound and Complex Sentences
++ Vocabulary
+  - Internet
+  - English Idioms 5
+  - Slang
+  - Filling in Online Forms
++ Speaking and Listening – Functional English
+  - Internet – Speaking and Listening Activities
+  - Asking for and Providing Personal Information
+  - Choosing from a Range of Options
+  - Changing the Topic
++ Pronunciation
+  - Word Stress and Sentence Stress 5
+  - Connected Speech 5
+  - Hard Words 5
++ Writing
+  - Write a Role Play / Dialogue Discussing the Pros and Cons of the Internet
+
+---
+current:
+  level: Intermediate
+  unit: Internet
+  file: <./int5-internet.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+previous:
+  unit: Crime
+    file: <./int4-crime.txt>
+next:
+  unit: Moving Home
+    file: <./int6-movinghome.txt>
+...

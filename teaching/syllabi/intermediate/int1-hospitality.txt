@@ -1,0 +1,40 @@
+## 1. Hospitality
++ Grammar
+  - English Phrasal Verbs 1
+  - Present Perfect Continuous
+  - Third Conditional
+  - Zero Conditional
++ Vocabulary
+  - Hospitality
+  - English Idioms 1
+  - Abstract Nouns
+  - Strong Adjectives
++ Speaking and Listening – Functional English
+  - Hotel – Speaking and Listening Activities
+  - Asking for Confirmation
+  - Describing a Place
+  - Narrating Past Events
++ Pronunciation
+  - Word Stress and Sentence Stress 1
+  - Connected Speech 1
+  - Hard Words 1
++ Writing
+  - Write a Formal Email Making a Complaint about a Hotel / Resort
+
+---
+current:
+  level: Intermediate
+  unit: Hospitality
+  file: <./int1-hospitality.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+next:
+  unit: Problems
+    file: <./int2-problems.txt>
+...

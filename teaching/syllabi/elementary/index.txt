@@ -1,0 +1,24 @@
+# Elementary-level Syllabus
+1. [Introductions](./elem1-intro.txt)
+2. [Everyday Life](./elem2-life.txt)
+3. [Family](./elem3-family.txt)
+4. [Home](./elem4-home.txt)
+5. [Clothes](./elem5-clothes.txt)
+6. [Food and Drink](./elem6-food.txt)
+7. [Free Time](./elem7-freetime.txt)
+8. [Transport](./elem8-transport.txt)
+9. [Jobs](./elem9-jobs.txt)
+
+---
+current:
+  level: Elementary
+  file: <./elementary.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

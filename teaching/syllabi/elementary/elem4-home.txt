@@ -1,0 +1,36 @@
+## 4. Home  
++ Grammar
+  - Demonstratives: this / that / these / those
+  - There is / There are
+  - Prepositions of Place and Time
+  - Modal Verbs
+  - Relative Clauses
++ Vocabulary
+  - Rooms and Furniture
+  - Adverbs
+  - Telling the Time
+  - Dates and Ordinal Numbers
++ Speaking and Listening – Functional English
+  - Describing the Home
+  - Telling the Time – Speaking Practice
+  - Asking for / Giving the Date
++ Pronunciation
+  - Finding the Stressed Vowel Sound: vcv Rule and vcc Rule
+  - Vowel Digraphs / Vowel + r / Vowel + Other
+  - th Sounds
++ Writing
+  - Describe your Home
+    
+---
+current:
+  level: Elementary
+  file: <./elem4-home.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

@@ -1,6 +1,5 @@
-# HumanLanguageSpoken
-Free "public domain" resources : spoken languages by humans [English and other]
+# HumanLanguagesEnglish
+Free "public domain" resources : English language.
 
 ## Licenses
-- **Merry Orks**, by Karoryfer Lecolds : CC0 1.0 Universal  
-- **Clear-Alphabet**, by Matt Purland : public domain (commercial or not)  
+- Matt Purland : public domain (commercial or not).

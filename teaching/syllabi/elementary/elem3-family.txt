@@ -1,0 +1,36 @@
+## 3. Family
++ Grammar
+  - Present Continuous
+  - Yes / No Questions
+  - Wh- Questions
+  - State (Stative) Verbs
+  - Punctuation Marks
+  - Compound Nouns
++ Vocabulary
+  - Family – Vocabulary
+  - Describing People – Appearance / Personality
+  - Adjectives – Part 1
++ Speaking and Listening – Functional English
+  - Describing People – Appearance / Personality – Speaking Practice
+  - Talking about your Family Tree
+  - Apologising
++ Pronunciation
+  - Word Stress
+  - Weak Forms
+  - Suffixes
++ Writing
+  - Write a Description of a Family Member
+
+---
+current:
+  level: Elementary
+  file: <./elem3-family.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...
