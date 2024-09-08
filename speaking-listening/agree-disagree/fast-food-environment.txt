@@ -1,8 +1,25 @@
+# Speaking and Listening : Agree or Disagree?
 ## Fast Food and the Environment
 
 Do you agree or disagree with these statements? Say why. Ask your partner or small group:
 
-1. “Why should I separate my rubbish at a fast food restaurant? I don’t want to feel like a member of staff. That’s their job! They should do it. I paid for my food.”
-2. “You should never take more than you give.” – Tim Rice (‘Circle of Life’)
-3. “When the last tree has been cut down, the last fish caught, the last river
-poisoned, only then will we realise that one cannot eat money.” – Native American saying.
+1. "Why should I separate my rubbish at a fast food restaurant? I don't want to feel like a member of staff. That's their job! They should do it. I paid for my food."
+2. "You should never take more than you give." - Tim Rice ('Circle of Life')
+3. "When the last tree has been cut down, the last fish caught, the last river **poisoned**, only then will we realise that one cannot eat money." - Native American **saying**.
+
+---
+current:
+  topic: Fast Food and the Environment
+  author: Matt Purland
+  from: <https://purlandtraining.com>
+  file: <./fast-food-environment.txt>
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don't even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

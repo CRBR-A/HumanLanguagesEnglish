@@ -1,22 +1,38 @@
+# Speaking and Listening : Agree or Disagree?
 ## Hospital
 
 Do you agree or disagree with these statements? Say why. Ask your partner or small group:
 
-1. I’m scared of going into hospital.
-2. I would never give blood, because it’s too dangerous.
-3. Health care is too expensive – it should be free.
+1. I'm **scared** of going into hospital.
+2. I would never **give blood**, because it's too **dangerous**.
+3. **Health care** is too **expensive** - it should be free.
 4. The best thing about being in hospital is the food!
-5. “A doctor, like anyone else who has to deal with human beings, each of them unique, cannot be a
-scientist; he is either, like the surgeon, a craftsman, or, like the physician and the psychologist,
-an artist.” – W. H. Auden, poet
-6. I would love to be a nurse.
+5. "A doctor, like anyone else who has to deal with human beings, each of them **unique**, cannot be a **scientist**; he is either, like the **surgeon**, a **craftsman**, or, like the **physician** and the **psychologist**, an **artist**." - W. H. Auden, poet
+6. I would love to be a **nurse**.
 7. I always get lost when I go and visit somebody in hospital.
-8. Hospitals smell funny.
-9. I prefer to pay for private health care.
-10. I’m allergic to pain. Even a blood test makes me cry!
-11. “A hospital is no place to be sick.” – Samuel Goldwyn, mogul
-12. There shouldn’t be male and female patients on the same hospital ward.
-13. Hospitals are too dirty.
-14. Hospital parking is a racket! It should be free!
-15. I would rather get better at home than in hospital.
-16. Mobile phones should be banned from hospitals.
+8. Hospitals smell **funny**.
+9. I prefer to pay for **private health care**.
+10. I'm **allergic** to **pain**. Even a **blood test** makes me **cry**!
+11. "A hospital is no place to be sick." - Samuel Goldwyn, mogul
+12. There shouldn't be male and female patients on the same hospital **ward**.
+13. Hospitals are too **dirty**.
+14. Hospital parking is a **racket**! It should be free!
+15. I would rather **get better** at home than in hospital.
+16. Mobile phones should be **banned** from hospitals.
+
+---
+current:
+  topic: Hospital
+  author: Matt Purland
+  from: <https://purlandtraining.com>
+  file: <./hospital.txt>
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don't even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

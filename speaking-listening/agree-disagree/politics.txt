@@ -1,22 +1,38 @@
+# Speaking and Listening : Agree or Disagree?
 ## Politics
 
 Do you agree or disagree with these statements? Say why. Ask your partner or small group:
 
-1. Politicians are generally trustworthy people.
-2. I would like to get into politics.
-3. Monarchies are undemocratic and therefore should be abolished.
-4. We should all try to get involved in the decision-making processes in our communities.
-5. My political views tend to be more right-wing than left-wing.
-6. “A week is a long time in politics.” – Harold Wilson
-7. Beware idealists!
-8. “Whoever you vote for, the government always gets in.” – Anonymous
+1. **Politicians** are generally **trustworthy** people.
+2. I would like to **get into** politics.
+3. **Monarchies** are **undemocratic** and therefore should be **abolished**.
+4. We should all try to get involved in the **decision-making processes** in our **communities**.
+5. My **political views** tend to be more **right-wing** than **left-wing**.
+6. "A week is a long time in politics." - Harold Wilson
+7. Beware **idealists**!
+8. "Whoever you **vote** for, the **government** always gets in." - Anonymous
 9. The people we most need to get involved in politics are the very people who are least likely to do so.
-10. The leader of the country is merely a spokesperson. The real power lies with unelected civil
-servants.
-11. “Power tends to corrupt; absolute power corrupts absolutely. Great men are almost always bad
-men.” – John Dalberg-Acton
-12. It doesn’t matter who is in power, as long as the economy prospers.
-13. The media should always support the government in its aims.
-14. My country is more democratic than it was twenty years ago.
-15. Social justice will never work, because people are by nature selfish.
-16. Once in power, most governments tend to do whatever they want.
+10. The leader of the country is merely a **spokesperson**. The real power lies with **unelected civil servants**.
+11. "Power tends to **corrupt**; absolute power corrupts **absolutely**. Great men are almost always bad men." - John Dalberg-Acton
+12. It doesn't matter who is in power, as long as **the economy prospers**.
+13. The media should always **support** the government in its aims.
+14. My country is more **democratic** than it was twenty years ago.
+15. **Social justice** will never work, because people are by nature **selfish**.
+16. Once in power, most governments **tend to** do whatever they want.
+
+---
+current:
+  topic: Politics
+  author: Matt Purland
+  from: <https://purlandtraining.com>
+  file: <./politics.txt>
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don't even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

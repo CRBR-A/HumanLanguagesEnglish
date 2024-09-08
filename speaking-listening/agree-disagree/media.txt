@@ -1,24 +1,38 @@
+# Speaking and Listening : Agree or Disagree?
 ## Media
 
 Do you agree or disagree with these statements? Say why. Ask your partner or small group:
 
-1. I really need a new mobile.
-2. “Radio is a medium of entertainment which permits millions of people to listen to the same joke at
-the same time, and yet remain lonesome.” – T. S. Eliot
-3. We have so many TV channels, but there’s never anything to watch.
-4. I set aside ‘me time’ especially to read my favourite magazine.
-5. The media is too invasive. I feel I’m being overwhelmed by the constant flow of new information.
-6. I’ve never listened to a podcast in my life. I don’t see the point.
-7. Online news and blogging is sounding the death knell for traditional newspapers.
-8. I love reading the latest celebrity gossip.
-9. I hate people who give away free newspapers in the street. They’re always getting in my way –
-and they won’t take no for an answer!
-10. The media continually distracts us from what is important in life.
-11. “Where ignorance is bliss it’s foolish to borrow your neighbour’s newspaper.” – Kin Hubbard
-12. I wouldn’t recognise any of the artists in the Top 40, I’m afraid!
-13. I’m in charge of the remote control in my home.
-14. “I find television very educating. Every time somebody turns on the set, I go into the other room
-and read a book.” – Groucho Marx
-15. Most of what the news media produces is either speculation or downright lies, with very little
-information that is actually true.
+1. I really need a new **mobile**.
+2. "Radio is a **medium** of **entertainment** which **permits** millions of people to listen to the same joke at the same time, and yet remain **lonesome**." - T. S. Eliot
+3. We have so many TV channels, but there's never anything to watch.
+4. I set aside '**me time**' especially to read my favourite magazine.
+5. The media is too **invasive**. I feel I'm being **overwhelmed** by the **constant flow** of new information.
+6. I've never listened to a podcast in my life. I don't see **the point**.
+7. Online news and **blogging** is sounding the **death knell** for **traditional** newspapers.
+8. I love reading the latest celebrity **gossip**.
+9. I hate people who give away free newspapers in the street. They're always **getting in my way** - and they **won't take no for an answer**!
+10. The media continually **distracts** us from what is important in life.
+11. "Where **ignorance is bliss** it's foolish to borrow your neighbour's newspaper." - Kin Hubbard
+12. I wouldn't **recognise** any of the artists in the **Top 40**, **I'm afraid**!
+13. I'm in charge of the **remote control** in my home.
+14. "I find television very **educating**. Every time somebody turns on the **set**, I go into the other room and read a book." - Groucho Marx
+15. Most of what the **news media** produces is either **speculation** or **downright lies**, with very little information that is actually true.
 16. Children and teenagers should not have the internet in their bedrooms.
+
+---
+current:
+  topic: Media
+  author: Matt Purland
+  from: <https://purlandtraining.com>
+  file: <./media.txt>
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don't even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...

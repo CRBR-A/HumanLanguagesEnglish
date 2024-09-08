@@ -1,22 +1,39 @@
+# Speaking and Listening : Agree or Disagree?
 ## Problems
 
 Do you agree or disagree with these statements? Say why. Ask your partner or small group:
 
-1. My life is trouble-free.
-2. My friends consider me a really helpful person.
-3. Problems are all in the mind! Live life to the full and you won’t feel any problems.
-4. “A problem shared is a problem halved.” – English Proverb
-5. I like to give advice, but I don’t always take my own advice.
-6. Each person’s individual problems are more pressing to them than the problems of all their friends
-and family combined.
+1. My life is **trouble-free**.
+2. My friends **consider** me a really helpful person.
+3. Problems are **all in the mind! Live life to the full** and you won't feel any problems.
+4. "A problem shared is a problem halved." - English Proverb
+5. I like to give **advice**, but I don't always take my own advice.
+6. Each person's individual problems are more **pressing** to them than the problems of all their friends and family **combined**.
 7. I need to talk to somebody about my problems.
-8. I would make a really good counsellor.
-9. “There is no human problem which could not be solved if people would simply do as I advise.” – Gore Vidal
-10. I’ve been through a lot in my life.
-11. “If you can solve your problem, then what is the need of worrying? If you cannot solve it, then what
-is the use of worrying?” – Shantideva
+8. I would **make** a really good **counsellor**.
+9. "There is no human problem which could not be **solved** if people would simply do as I advise." - Gore Vidal
+10. I've **been through** a lot in my life.
+11. "If you can **solve** your problem, then what is the need of **worrying**? If you cannot solve it, then what
+is the use of worrying?" - Shantideva
 12. I always try to avoid thinking about difficult things.
-13. Adults tend to have more problems than children, but teenagers have to handle the most problems.
-14. “No problem is so formidable that you can’t walk away from it.” – Charles M. Schulz
-15. Weak-willed people will always have more problems than strong-minded people.
-16. Any problem in life can be solved by money
+13. Adults **tend to** have more problems than children, but teenagers have to **handle** the most problems.
+14. "No problem is so **formidable** that you can't walk away from it." - Charles M. Schulz
+15. **Weak-willed** people will always have more problems than **strong-minded** people.
+16. Any problem in life can be solved by money.
+
+---
+current:
+  topic: Problems
+  author: Matt Purland
+  from: <https://purlandtraining.com>
+  file: <./problems.txt>
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don't even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.
+...
